@@ -1,5 +1,7 @@
 # UrbanMart POS — Requirements Traceability Matrix (RTM)
 
+[UrbanMart_POS_RTM.docx](https://github.com/user-attachments/files/31484682/UrbanMart_POS_RTM.docx)
+
 ## 1. Purpose
 
 The purpose of the Requirements Traceability Matrix (RTM) is to establish a clear relationship between business requirements and the project deliverables.
